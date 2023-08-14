@@ -1,0 +1,11 @@
+id,Make,Model,Condition,Engine Cylinders,Year,Number of Doors,Price,Color,Thumbnail Image,Full Size Image,Date Sold
+1,Ford,Mustang,New,V8,2022,2,45000,Red,thumbnails/ford_mustang_red.png,images/ford_mustang_red.png,
+2,Toyota,Camry,Used,V6,2019,4,20000,Blue,thumbnails/toyota_camry_blue.png,images/toyota_camry_blue.png,
+3,Honda,Accord,Used,4 cyl,2017,4,15000,White,thumbnails/honda_accord_white.png,images/honda_accord_white.png,2022-04-11
+4,Chevrolet,Silverado,New,V8,2023,4,55000,Black,thumbnails/chevrolet_silverado_black.png,images/chevrolet_silverado_black.png,
+5,Nissan,Altima,Used,4 cyl,2018,4,18000,Silver,thumbnails/nissan_altima_silver.png,images/nissan_altima_silver.png,
+6,Jeep,Wrangler,New,V6,2022,2,40000,Green,thumbnails/jeep_wrangler_green.png,images/jeep_wrangler_green.png,2022-04-08
+7,Tesla,Model 3,New,Electric,2022,4,50000,Gray,thumbnails/tesla_model_3_gray.png,images/tesla_model_3_gray.png,2022-03-30
+8,BMW,M3,Used,V6,2015,4,35000,Black,thumbnails/bmw_m3_black.png,images/bmw_m3_black.png,
+9,Mercedes-Benz,C300,Used,V4,2016,4,28000,Silver,thumbnails/mercedes_c300_silver.png,images/mercedes_c300_silver.png,
+10,Audi,A4,New,V4,2022,4,45000,Blue,thumbnails/audi_a4_blue.png,images/audi_a4_blue.png,2022-04-10
